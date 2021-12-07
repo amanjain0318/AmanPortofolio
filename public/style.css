@@ -578,10 +578,12 @@ footer span a:hover{
     text-decoration: underline;
 }
 .footer-logo{
-   text-align: center ;   
+   text-align: center ;  
 }
 .footer-logo-icon{
     margin-left: 2%;
+   text-decoration: #fff;
+   color: #fff;
 }
 
 /* responsive media query start */
