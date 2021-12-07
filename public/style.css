@@ -292,8 +292,8 @@ section .title::after{
     border-radius: 6px;
     padding: 50px 25px;
     cursor: pointer;
-    margin-left: 10%;
-    margin-right: 7%;
+    /* margin-left: 10%;
+    margin-right: 7%; */
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
@@ -578,7 +578,7 @@ footer span a:hover{
     text-decoration: underline;
 }
 .footer-logo{
-    margin-left: 20%;    
+   text-align: center ;   
 }
 .footer-logo-icon{
     margin-left: 2%;
